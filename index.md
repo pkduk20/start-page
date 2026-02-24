@@ -1,3 +1,7 @@
+# Life
+- [네이버 날씨](https://weather.naver.com/)
+- [구글 뉴스](https://news.google.com)
+
 # Portal
 - [GOOGLE](https://google.com)
 - [NAVER](https://naver.com)
