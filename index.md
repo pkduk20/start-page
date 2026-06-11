@@ -1,9 +1,10 @@
 # Media
 - [Anilife](https://anilife.app/home)
 - [애니TV](https://linkkf.tv/)
-- [TVMon](https://tvmon.site/)
+- [TVMon](https://tvmon1.com)
 - [유튜부](https://youtube.com/)
 - [쿠팡플레이](https://www.coupangplay.com/)
+- [Netflix](https://www.netflix.com)
 
 # Life
 - [네이버 날씨](https://weather.naver.com/)
